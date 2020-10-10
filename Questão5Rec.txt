@@ -1,0 +1,44 @@
+Classe Jogo :
+
+public class Jogo{
+
+    String StatusAtual;
+    String StatusAndamento;
+    
+}
+
+       
+Classe Score: 
+
+public class Score {
+    String Pontuação;
+    
+    
+}
+
+Classe Tabuleiro: 
+
+public class Tabuleiro {
+    String Linhas;
+    String Colunas;
+    
+    
+}
+
+Classe Zona: 
+
+public class Zona {
+    String ZonaTabuleiro;
+    
+    
+}
+
+
+Classe Jogada: 
+
+public class Jogada {
+    String MovimentoDoJogador;
+    
+    
+}
+

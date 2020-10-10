@@ -1,0 +1,7 @@
+Encapsulamento:
+
+Consiste em ocultar a implementação dos métodos e restringir o acesso aos atributos somente atraves de metodos internos. No encapsulamento um objeto nunca deve manipular diretamente os atributos de outro objeto. a manipulação deve ser feita via métodos, que garante o encapsulamento. pra isso, normalmente declara-se os atributos de uma classe como privados. 
+
+Poliformismo:
+
+Polimorfismo é o princípio pelo qual duas ou mais classes derivadas de uma mesma superclasse podem invocar métodos que têm a mesma identificação (assinatura) mas comportamentos distintos, especializados para cada classe derivada, usando para tanto uma referência a um objeto do tipo da superclasse. o papel do poliformismo é a redução de código, simplicidade, flexibilidade.
