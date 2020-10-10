@@ -1,0 +1,32 @@
+Classe Disciplinas :
+
+public class Disciplinas{
+
+    String engenhariaSoftware;
+    String administração;
+    String direito;
+}
+
+       
+Classe Turmas: 
+
+public class Turmas {
+    String turmaA;
+    String turmaB;
+    String turmaC;
+    
+}
+
+Classe Main: 
+
+import java.util.Scanner;
+public class main {
+
+    public static void main(String[] args) {
+        Disciplinas materias = new Disciplinas();
+        Turmas turmas = new Turmas();
+
+        
+    }
+        
+}
