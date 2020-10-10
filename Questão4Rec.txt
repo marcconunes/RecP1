@@ -1,0 +1,15 @@
+public class ItensComprados{
+
+public void String Itens
+
+   Public String setItens (String Itens){
+         ItensComprados = Itens;
+         }
+   public String getItens(){
+        return Itens;
+        }
+     Public void itensVendidos(){
+     
+       System.out.printf("Quantos itens a loja vendeu?")
+       }
+   }    
